@@ -1,3 +1,9 @@
+/**
+ *
+ *  @author Żurek Jakub S25434
+ *
+ */
+
 package zad1;
 
 import javax.swing.*;
